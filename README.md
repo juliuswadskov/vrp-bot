@@ -1,1 +1,1 @@
-# vrp-bot
+# vRP Bot
