@@ -5,6 +5,7 @@
   "main": "app.js",
   "author": "Raag2005",
   "dependencies": {
-    "discord.js": "^12.5.3"
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0"
   }
 }
